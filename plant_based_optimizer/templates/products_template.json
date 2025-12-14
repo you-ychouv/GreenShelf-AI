@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Nom du produit 1",
+    "ingredients": "ingrédient1, ingrédient2, ingrédient3, ..."
+  },
+  {
+    "name": "Nom du produit 2",
+    "ingredients": "ingrédient1, ingrédient2, ingrédient3, ..."
+  },
+  {
+    "name": "Exemple: Yaourt aux fruits",
+    "ingredients": "lait entier, sucre, fraises, gélatine, arômes naturels, colorant E120"
+  },
+  {
+    "name": "Exemple: Crème dessert chocolat",
+    "ingredients": "lait demi-écrémé, sucre, chocolat, crème fraîche, amidon de maïs, gélatine"
+  },
+  {
+    "name": "Exemple: Gâteau marbré",
+    "ingredients": "farine de blé, sucre, œufs, beurre, lait, levure, cacao, arôme vanille"
+  }
+]

@@ -1,0 +1,100 @@
+name,ph,water_activity,antimicrobial_score
+lait,6.6,0.98,2
+lait de soja,7.0,0.97,3
+lait d'amande,6.8,0.96,3
+lait d'avoine,6.9,0.97,3
+lait de coco,6.5,0.96,4
+yaourt,4.5,0.98,5
+yaourt de soja,4.6,0.97,5
+yaourt de coco,4.7,0.96,5
+crème fraîche,6.5,0.97,2
+crème de soja,6.6,0.96,3
+crème de coco,6.4,0.95,4
+beurre,6.4,0.85,4
+margarine végétale,6.5,0.86,4
+huile de coco,7.0,0.60,6
+fromage,5.5,0.92,5
+fromage végétal,5.8,0.93,4
+oeuf,7.6,0.97,1
+tofu,6.5,0.90,3
+tempeh,6.8,0.88,4
+seitan,6.7,0.85,3
+viande de boeuf,5.8,0.98,1
+poulet,6.2,0.98,1
+porc,5.9,0.98,1
+saumon,6.2,0.98,1
+gélatine,6.0,0.95,2
+agar-agar,7.0,0.95,5
+pectine,3.5,0.92,7
+carraghénane,7.5,0.95,4
+miel,3.9,0.75,8
+sirop d'agave,4.5,0.78,6
+sirop d'érable,5.5,0.80,5
+sirop de dattes,6.0,0.82,4
+sucre,7.0,0.85,5
+sel,7.0,0.75,7
+vinaigre,2.5,0.95,8
+jus de citron,2.3,0.95,7
+acide citrique,1.8,0.92,9
+tomate,4.3,0.95,4
+oignon,5.8,0.89,5
+ail,6.3,0.87,7
+carotte,6.0,0.88,3
+épinards,6.8,0.92,2
+brocoli,6.5,0.90,3
+pomme de terre,6.1,0.85,2
+patate douce,6.3,0.86,3
+banane,4.5,0.88,3
+pomme,3.8,0.84,4
+fraise,3.5,0.90,3
+myrtille,3.3,0.88,4
+amandes,6.2,0.70,4
+noix de cajou,6.0,0.65,3
+graines de lin,6.5,0.68,5
+graines de chia,6.8,0.70,4
+purée d'amande,6.0,0.72,4
+beurre de cacahuète,6.2,0.75,4
+tahini,5.8,0.70,5
+lentilles,6.5,0.85,3
+pois chiches,6.8,0.87,3
+haricots noirs,6.2,0.86,3
+quinoa,6.0,0.82,3
+avoine,6.2,0.80,3
+riz,6.0,0.78,2
+pain,5.5,0.88,3
+huile d'olive,7.0,0.60,5
+huile de tournesol,7.0,0.60,3
+curcuma,6.5,0.75,8
+paprika,6.0,0.70,6
+poivre,6.8,0.65,7
+aquafaba,7.2,0.96,2
+compote de pommes,3.8,0.90,4
+protéines de soja texturées,6.5,0.75,3
+gomme de guar,7.0,0.90,3
+gomme xanthane,7.0,0.88,3
+levure,6.5,0.85,4
+extrait de levure,5.0,0.80,6
+levure nutritionnelle,6.0,0.75,5
+romarin,6.5,0.70,9
+thym,6.8,0.68,8
+origan,6.2,0.72,8
+basilic,6.0,0.88,6
+persil,6.5,0.90,4
+coriandre,6.3,0.88,5
+menthe,6.8,0.85,6
+cannelle,6.0,0.65,8
+clou de girofle,5.5,0.60,9
+muscade,6.2,0.62,7
+gingembre,5.8,0.80,8
+piment,5.0,0.75,8
+wasabi,4.5,0.70,9
+moutarde,4.0,0.85,8
+raifort,4.2,0.82,8
+câpres,3.5,0.88,7
+olives,4.0,0.90,6
+cornichons,3.2,0.92,8
+choucroute,3.5,0.95,7
+kimchi,4.0,0.94,8
+miso,5.5,0.88,7
+sauce soja,4.8,0.90,6
+tamari,5.0,0.88,6

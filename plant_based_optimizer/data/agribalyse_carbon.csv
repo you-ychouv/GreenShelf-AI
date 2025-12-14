@@ -1,0 +1,116 @@
+name,co2_kg_per_kg,land_use_m2,water_use_l
+boeuf,27.0,326.0,15400
+veau,24.0,280.0,14200
+porc,7.6,11.0,5988
+poulet,6.9,7.2,4325
+dinde,10.9,11.0,3800
+agneau,39.2,370.0,10400
+canard,11.0,12.0,5600
+lapin,8.9,9.5,4800
+saumon d'élevage,11.9,3.5,3700
+saumon sauvage,5.1,2.5,3000
+thon,6.1,2.8,3200
+crevettes,26.9,2.0,3900
+moules,2.7,0.3,400
+huîtres,1.9,0.2,350
+lait entier,3.2,9.0,1050
+lait demi-écrémé,2.8,8.5,980
+fromage,13.5,41.0,5000
+beurre,23.8,65.0,5500
+crème,6.9,18.0,2100
+yaourt,2.2,6.5,900
+oeuf,4.8,5.7,3265
+miel,3.8,4.2,1800
+gélatine,8.5,12.0,4500
+lait de soja,0.9,1.5,297
+lait d'amande,0.7,0.5,371
+lait d'avoine,0.9,0.8,48
+lait de coco,1.4,1.2,180
+lait de riz,1.2,1.1,270
+tofu,2.0,3.5,2145
+tempeh,1.6,2.8,1850
+seitan,1.7,3.2,1200
+protéines de soja texturées,1.2,2.5,900
+lentilles,0.9,1.8,397
+pois chiches,1.0,2.0,501
+haricots noirs,0.8,1.6,380
+haricots rouges,0.9,1.7,420
+pois,0.9,1.8,397
+fèves,1.1,2.1,450
+soja,2.0,3.5,2145
+quinoa,1.1,2.2,368
+avoine,0.9,1.5,482
+riz blanc,4.0,2.8,2497
+riz complet,2.7,2.5,2200
+blé,0.6,1.2,822
+orge,0.5,1.0,650
+maïs,1.1,1.8,476
+seigle,0.7,1.3,750
+millet,0.9,1.6,550
+sarrasin,1.0,1.7,600
+amandes,2.3,2.2,16095
+noix de cajou,3.9,4.5,14218
+noix,0.7,1.3,4134
+noisettes,1.3,1.8,5433
+pistaches,2.8,3.2,11363
+graines de tournesol,1.4,2.0,3366
+graines de courge,1.2,1.8,2800
+graines de lin,1.5,2.1,2400
+graines de chia,1.8,2.4,3200
+graines de sésame,2.1,2.8,4200
+huile d'olive,5.4,26.0,14431
+huile de tournesol,3.6,18.0,6792
+huile de colza,3.8,19.0,4300
+huile de coco,3.5,17.0,2520
+huile de palme,7.6,33.0,5000
+huile de soja,4.4,22.0,5800
+margarine végétale,2.8,12.0,3500
+beurre de cacahuète,2.5,3.8,4200
+purée d'amande,2.3,2.2,16095
+tahini,2.1,2.8,4200
+pomme de terre,0.3,0.4,287
+patate douce,0.4,0.5,320
+carotte,0.4,0.5,131
+tomate,1.4,0.8,214
+concombre,0.5,0.3,353
+courgette,0.4,0.4,322
+aubergine,0.4,0.5,362
+poivron,0.7,0.6,379
+brocoli,0.4,0.5,285
+chou-fleur,0.4,0.5,270
+épinards,0.4,0.5,292
+laitue,0.2,0.3,237
+oignon,0.3,0.4,272
+ail,0.4,0.5,190
+champignons,2.0,1.2,2760
+banane,0.7,1.6,790
+pomme,0.4,0.6,822
+orange,0.4,0.7,560
+fraise,1.0,0.2,347
+myrtille,1.5,0.3,845
+raisin,1.4,1.1,608
+mangue,0.9,1.4,1800
+ananas,0.7,1.0,986
+kiwi,0.5,0.7,514
+pêche,0.4,0.6,910
+abricot,0.5,0.7,1280
+cerise,1.1,0.9,1700
+prune,0.6,0.8,1050
+poire,0.4,0.6,922
+sucre de canne,3.2,2.1,1782
+sucre de betterave,1.8,1.2,920
+sirop d'agave,1.6,1.8,1200
+sirop d'érable,2.5,2.8,3400
+sirop de dattes,1.4,1.6,1100
+mélasse,2.0,1.9,1500
+vinaigre,0.8,0.5,450
+jus de citron,0.6,0.7,560
+acide citrique,1.2,1.0,800
+sel,0.4,0.2,150
+levure,1.5,1.8,1200
+levure nutritionnelle,1.8,2.0,1400
+agar-agar,2.5,1.5,2800
+pectine,2.8,2.2,3200
+gomme de guar,2.0,1.8,2400
+carraghénane,2.3,1.6,2600
+gomme xanthane,2.6,2.0,2900

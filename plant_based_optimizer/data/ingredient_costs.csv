@@ -1,0 +1,114 @@
+ingredient,cost_per_kg_eur,unit,source
+lait,0.85,kg,Prix moyen industrie 2024
+lait entier,0.90,kg,Prix moyen industrie 2024
+lait demi-écrémé,0.85,kg,Prix moyen industrie 2024
+lait écrémé,0.80,kg,Prix moyen industrie 2024
+lait de soja,1.20,kg,Prix moyen alternatives végétales
+lait d'avoine,1.35,kg,Prix moyen alternatives végétales
+lait d'amande,2.10,kg,Prix moyen alternatives végétales
+lait de coco,1.80,kg,Prix moyen alternatives végétales
+crème fraîche,3.50,kg,Prix moyen industrie 2024
+crème de soja,4.20,kg,Prix moyen alternatives végétales
+crème de coco,3.80,kg,Prix moyen alternatives végétales
+crème d'avoine,4.50,kg,Prix moyen alternatives végétales
+beurre,6.50,kg,Prix moyen industrie 2024
+margarine végétale,4.80,kg,Prix moyen alternatives végétales
+huile de coco,8.50,kg,Prix moyen huiles végétales
+purée d'amande,12.00,kg,Prix moyen purées oléagineuses
+yaourt,2.50,kg,Prix moyen industrie 2024
+yaourt de soja,3.20,kg,Prix moyen alternatives végétales
+yaourt de coco,3.80,kg,Prix moyen alternatives végétales
+yaourt d'avoine,3.50,kg,Prix moyen alternatives végétales
+fromage,8.50,kg,Prix moyen industrie 2024
+fromage végétal,11.50,kg,Prix moyen alternatives végétales
+levure nutritionnelle,15.00,kg,Prix moyen compléments
+oeuf,2.80,kg,Prix moyen industrie 2024 (18 oeufs/kg)
+œuf,2.80,kg,Prix moyen industrie 2024
+graines de lin,4.50,kg,Prix moyen graines
+aquafaba,0.50,kg,Sous-produit pois chiches
+compote de pommes,1.80,kg,Prix moyen industrie
+tofu,3.50,kg,Prix moyen alternatives végétales
+tofu soyeux,4.00,kg,Prix moyen alternatives végétales
+blanc d'oeuf,3.50,kg,Prix moyen industrie
+blanc d'œuf,3.50,kg,Prix moyen industrie
+jaune d'oeuf,4.50,kg,Prix moyen industrie
+jaune d'œuf,4.50,kg,Prix moyen industrie
+viande,8.50,kg,Prix moyen viandes
+viande de boeuf,12.00,kg,Prix moyen boeuf
+viande de bœuf,12.00,kg,Prix moyen boeuf
+poulet,6.50,kg,Prix moyen volaille
+porc,7.50,kg,Prix moyen porc
+tempeh,5.50,kg,Prix moyen alternatives végétales
+seitan,6.80,kg,Prix moyen alternatives végétales
+protéines de soja,4.20,kg,Prix moyen protéines végétales
+gélatine,18.00,kg,Prix moyen gélatine animale
+gelatine,18.00,kg,Prix moyen gélatine animale
+agar-agar,45.00,kg,Prix moyen gélifiant végétal
+pectine,25.00,kg,Prix moyen gélifiant végétal
+carraghénane,22.00,kg,Prix moyen gélifiant végétal
+gomme de guar,12.00,kg,Prix moyen épaississant
+miel,8.50,kg,Prix moyen miel
+sirop d'agave,6.50,kg,Prix moyen sirops végétaux
+sirop d'érable,12.00,kg,Prix moyen sirops végétaux
+sirop de dattes,7.50,kg,Prix moyen sirops végétaux
+sucre,0.90,kg,Prix moyen sucre blanc
+farine,0.60,kg,Prix moyen farine blé
+amidon,1.20,kg,Prix moyen amidons
+chocolat,8.50,kg,Prix moyen chocolat
+cacao,12.00,kg,Prix moyen cacao poudre
+fraises,4.50,kg,Prix moyen fruits frais
+fruits,3.50,kg,Prix moyen fruits
+arômes,35.00,kg,Prix moyen arômes naturels
+arômes naturels,35.00,kg,Prix moyen arômes naturels
+sel,0.30,kg,Prix moyen sel
+poivre,15.00,kg,Prix moyen épices
+épices,12.00,kg,Prix moyen épices
+levure,8.00,kg,Prix moyen levure boulangère
+e120,85.00,kg,Prix moyen colorant cochenille
+colorant e120,85.00,kg,Prix moyen colorant cochenille
+cochenille,85.00,kg,Prix moyen colorant cochenille
+carmin,85.00,kg,Prix moyen colorant cochenille
+extrait de betterave,12.00,kg,Prix moyen colorant végétal
+jus de carotte,2.50,kg,Prix moyen jus légumes
+anthocyanes,45.00,kg,Prix moyen colorant végétal
+e441,18.00,kg,Prix gélatine
+e542,8.50,kg,Prix phosphates
+phosphate de calcium,6.50,kg,Prix phosphates végétaux
+e901,95.00,kg,Prix cire d'abeille
+cire d'abeille,95.00,kg,Prix cire d'abeille
+cire de carnauba,75.00,kg,Prix cire végétale
+cire de candelilla,68.00,kg,Prix cire végétale
+e904,120.00,kg,Prix gomme laque
+shellac,120.00,kg,Prix gomme laque
+gomme arabique,18.00,kg,Prix gomme végétale
+e910,95.00,kg,Prix esters cire
+cire de riz,55.00,kg,Prix cire végétale
+e913,110.00,kg,Prix lanoline
+lanoline végétale,85.00,kg,Prix alternative végétale
+e920,145.00,kg,Prix L-cystéine animale
+l-cystéine,145.00,kg,Prix L-cystéine
+cystéine végétale,95.00,kg,Prix cystéine végétale
+e921,150.00,kg,Prix L-cystine
+cystine végétale,98.00,kg,Prix cystine végétale
+e322,4.50,kg,Prix lécithine
+lécithine,4.50,kg,Prix lécithine
+lécithine de soja,4.20,kg,Prix lécithine soja
+lécithine de tournesol,5.50,kg,Prix lécithine tournesol
+e422,3.20,kg,Prix glycérol
+glycérol,3.20,kg,Prix glycérol
+glycérine,3.20,kg,Prix glycérine
+glycérol végétal,3.50,kg,Prix glycérol végétal
+e471,5.50,kg,Prix mono/diglycérides
+mono et diglycérides,5.50,kg,Prix émulsifiants
+e472,6.00,kg,Prix esters acides gras
+e473,6.50,kg,Prix esters saccharose
+e1105,125.00,kg,Prix lysozyme oeuf
+lysozyme,125.00,kg,Prix lysozyme
+lysozyme végétal,95.00,kg,Prix lysozyme végétal
+huile,2.50,kg,Prix moyen huiles
+huile de tournesol,2.20,kg,Prix huile tournesol
+moutarde,3.50,kg,Prix moyen condiments
+vinaigre,1.20,kg,Prix moyen vinaigre
+pépites de chocolat,9.50,kg,Prix moyen chocolat
+extrait de vanille,180.00,kg,Prix moyen extraits
+vanille,180.00,kg,Prix moyen vanille

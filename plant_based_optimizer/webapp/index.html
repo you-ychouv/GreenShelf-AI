@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plant-Based Optimizer - Optimiseur de Produits</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- HEADER -->
+        <header class="header">
+            <div class="logo">
+                <span class="logo-icon">🌱</span>
+                <h1>Plant-Based Optimizer</h1>
+            </div>
+            <p class="tagline">Transformez vos produits avec des alternatives végétales</p>
+        </header>
+
+        <!-- MAIN CONTENT -->
+        <main class="main-content">
+            <!-- FORMULAIRE -->
+            <section class="form-section card">
+                <h2>📦 Votre Produit</h2>
+                
+                <div class="form-group">
+                    <label for="product-name">Nom du produit *</label>
+                    <input 
+                        type="text" 
+                        id="product-name" 
+                        placeholder="Ex: Yaourt aux fruits"
+                        required
+                    >
+                </div>
+
+                <div class="form-group">
+                    <label for="ingredients">Ingrédients (séparés par des virgules) *</label>
+                    <textarea 
+                        id="ingredients" 
+                        rows="4" 
+                        placeholder="Ex: lait entier, sucre, fraises, gélatine, arômes naturels, colorant E120"
+                        required
+                    ></textarea>
+                    <small class="help-text">Listez tous les ingrédients séparés par des virgules</small>
+                </div>
+
+                <div class="button-group">
+                    <button id="btn-optimize" class="btn btn-primary">
+                        <span class="btn-icon">🚀</span>
+                        Optimiser
+                    </button>
+                    <button id="btn-validate" class="btn btn-secondary">
+                        <span class="btn-icon">✓</span>
+                        Valider
+                    </button>
+                    <button id="btn-example" class="btn btn-secondary">
+                        <span class="btn-icon">📋</span>
+                        Exemple
+                    </button>
+                    <button id="btn-reset" class="btn btn-secondary">
+                        <span class="btn-icon">🔄</span>
+                        Réinitialiser
+                    </button>
+                </div>
+
+                <!-- VALIDATION ERRORS -->
+                <div id="validation-errors" class="validation-errors" style="display: none;">
+                    <h4>⚠️ Problèmes détectés:</h4>
+                    <ul id="validation-list"></ul>
+                </div>
+            </section>
+
+            <!-- LOADING -->
+            <div id="loading" class="loading-overlay" style="display: none;">
+                <div class="loading-content">
+                    <div class="spinner"></div>
+                    <h3>Optimisation en cours...</h3>
+                    <p id="loading-message">Analyse approfondie avec IA (30-60 secondes)</p>
+                    <div class="progress-steps">
+                        <div class="step" id="step-1">
+                            <span class="step-icon">🤖</span>
+                            <span class="step-text">Parsing IA</span>
+                        </div>
+                        <div class="step" id="step-2">
+                            <span class="step-icon">📊</span>
+                            <span class="step-text">Enrichissement</span>
+                        </div>
+                        <div class="step" id="step-3">
+                            <span class="step-icon">🔬</span>
+                            <span class="step-text">Calculs</span>
+                        </div>
+                        <div class="step" id="step-4">
+                            <span class="step-icon">🎓</span>
+                            <span class="step-text">Sélection</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ERROR MESSAGE -->
+            <div id="error-message" class="error-message" style="display: none;">
+                <h3>❌ Erreur</h3>
+                <p id="error-text"></p>
+                <button id="btn-close-error" class="btn btn-secondary">Fermer</button>
+            </div>
+
+            <!-- RESULTS -->
+            <div id="results" class="results-section" style="display: none;">
+                <h2>📊 Résultats de l'Optimisation</h2>
+
+                <!-- STRATEGY -->
+                <section class="card">
+                    <h3>🎯 Stratégie</h3>
+                    <div id="strategy" class="strategy-badge"></div>
+                </section>
+
+                <!-- REPLACEMENTS -->
+                <section class="card">
+                    <h3>🔄 Remplacements (<span id="replacements-count">0</span>)</h3>
+                    <div id="replacements" class="replacements-list"></div>
+                </section>
+
+                <!-- SCORES -->
+                <section class="card">
+                    <h3>📈 Métriques</h3>
+                    <div class="metrics-grid" id="metrics-grid"></div>
+                    
+                    <div class="total-score">
+                        <h4>Score Total</h4>
+                        <div class="score-value" id="total-score">0.000</div>
+                        <div class="score-bar">
+                            <div class="score-fill" id="score-fill"></div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- SUMMARY -->
+                <section class="card">
+                    <h3>💡 Résumé</h3>
+                    <p id="summary" class="summary-text"></p>
+                </section>
+
+                <!-- RECOMMENDATIONS -->
+                <section class="card">
+                    <h3>🔬 Recommandations</h3>
+                    <ul id="recommendations" class="recommendations-list"></ul>
+                </section>
+
+                <!-- ACTIONS -->
+                <div class="button-group">
+                    <button id="btn-export-json" class="btn btn-secondary">
+                        <span class="btn-icon">💾</span>
+                        Exporter JSON
+                    </button>
+                    <button id="btn-new-optimization" class="btn btn-primary">
+                        <span class="btn-icon">➕</span>
+                        Nouvelle Optimisation
+                    </button>
+                </div>
+            </div>
+        </main>
+
+        <!-- FOOTER -->
+        <footer class="footer">
+            <p>Plant-Based Optimizer v1.0 | Durée de conservation prioritaire (30%)</p>
+            <p><small>API: <span id="api-status">Vérification...</span></small></p>
+        </footer>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

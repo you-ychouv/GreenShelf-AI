@@ -1,0 +1,135 @@
+{
+  "original_product": {
+    "name": "Yaourt aux fruits",
+    "ingredients": [
+      "lait entier",
+      "sucre",
+      "fraises",
+      "gélatine",
+      "arômes naturels",
+      "colorant E120"
+    ],
+    "non_plant_based_ingredients": [
+      "lait entier",
+      "gélatine"
+    ]
+  },
+  "strategy": "replace_all_additives",
+  "optimized_product": {
+    "ingredients": [
+      "lait entier",
+      "sucre",
+      "fraises",
+      "pectine",
+      "arômes naturels",
+      "colorant E120"
+    ],
+    "replacements": [
+      {
+        "original": "gélatine",
+        "replacement": "pectine",
+        "reason": "Remplacement d'additif non plant-based (variante)"
+      }
+    ]
+  },
+  "metrics": {
+    "shelf_life": {
+      "original_days": 20.057333333333325,
+      "new_days": 25.85916666666666,
+      "improvement_percent": 28.926244765007,
+      "score": 0.78926244765007
+    },
+    "nutrition": {
+      "similarity_percent": 72.49221600080496,
+      "original_profile": {
+        "protein_g": 15.816666666666666,
+        "fat_g": 1.0666666666666667,
+        "carbs_g": 22.433333333333337,
+        "fiber_g": 1.0,
+        "calories_kcal": 160.5,
+        "water_g": 56.833333333333336
+      },
+      "new_profile": {
+        "protein_g": 1.5999999999999999,
+        "fat_g": 1.0499999999999998,
+        "carbs_g": 22.51666666666667,
+        "fiber_g": 1.0,
+        "calories_kcal": 158.83333333333334,
+        "water_g": 56.66666666666667
+      },
+      "score": 0.7249221600080495
+    },
+    "carbon": {
+      "original_co2_kg": 3.2333333333333334,
+      "new_co2_kg": 2.283333333333333,
+      "reduction_percent": 29.381443298969078,
+      "score": 0.2938144329896908
+    },
+    "taste": {
+      "similarity": 0.9866666666666667,
+      "overall_score": 6.833333333333334,
+      "score": 0.8653333333333333
+    },
+    "total_score": 0.6645295492111227
+  },
+  "justification": {
+    "summary": "Candidat sélectionné automatiquement avec le score total le plus élevé: 0.66",
+    "shelf_life_analysis": "Analyse automatique basée sur les scores",
+    "nutrition_analysis": "Analyse automatique basée sur les scores",
+    "carbon_analysis": "Analyse automatique basée sur les scores",
+    "taste_analysis": "Analyse automatique basée sur les scores",
+    "trade_offs": "Sélection automatique sans analyse détaillée des compromis"
+  },
+  "recommendations": [
+    "Effectuer des tests sensoriels en laboratoire",
+    "Valider la durée de conservation par des tests microbiologiques",
+    "Optimiser les coûts de production"
+  ],
+  "confidence_score": 0.7,
+  "all_candidates": [
+    {
+      "id": 1,
+      "replacements": [
+        {
+          "original": "gélatine",
+          "replacement": "pectine",
+          "reason": "Remplacement d'additif non plant-based (variante)"
+        }
+      ],
+      "total_score": 0.6645295492111227
+    },
+    {
+      "id": 2,
+      "replacements": [
+        {
+          "original": "gélatine",
+          "replacement": "agar-agar",
+          "reason": "Remplacement d'additif non plant-based"
+        }
+      ],
+      "total_score": 0.6129201672046733
+    },
+    {
+      "id": 3,
+      "replacements": [
+        {
+          "original": "gélatine",
+          "replacement": "agar-agar",
+          "reason": "Remplacement d'additif non plant-based (variante)"
+        }
+      ],
+      "total_score": 0.6129201672046733
+    },
+    {
+      "id": 4,
+      "replacements": [
+        {
+          "original": "gélatine",
+          "replacement": "carraghénane",
+          "reason": "Remplacement d'additif non plant-based (variante)"
+        }
+      ],
+      "total_score": 0.6109773000673069
+    }
+  ]
+}

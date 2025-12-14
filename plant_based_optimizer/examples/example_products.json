@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Yaourt aux fruits",
+    "ingredients": "lait entier, sucre, fraises, gélatine, arômes naturels, colorant E120"
+  },
+  {
+    "name": "Crème dessert chocolat",
+    "ingredients": "lait demi-écrémé, sucre, chocolat, crème fraîche, amidon de maïs, gélatine"
+  },
+  {
+    "name": "Gâteau marbré",
+    "ingredients": "farine de blé, sucre, œufs, beurre, lait, levure, cacao, arôme vanille"
+  },
+  {
+    "name": "Sauce béchamel",
+    "ingredients": "lait, beurre, farine, sel, poivre, muscade"
+  },
+  {
+    "name": "Quiche lorraine",
+    "ingredients": "pâte brisée, œufs, crème fraîche, lardons, fromage, sel, poivre"
+  },
+  {
+    "name": "Mousse au chocolat",
+    "ingredients": "chocolat noir, œufs, sucre, crème fraîche, beurre"
+  },
+  {
+    "name": "Mayonnaise",
+    "ingredients": "huile de tournesol, jaune d'œuf, moutarde, vinaigre, sel"
+  },
+  {
+    "name": "Cookies",
+    "ingredients": "farine, beurre, sucre roux, œufs, pépites de chocolat, levure, sel"
+  },
+  {
+    "name": "Glace vanille",
+    "ingredients": "lait, crème fraîche, sucre, jaunes d'œufs, extrait de vanille"
+  },
+  {
+    "name": "Pâte à tartiner",
+    "ingredients": "sucre, huile de palme, noisettes, cacao, lait écrémé en poudre, lactosérum, lécithine de soja"
+  },
+  {
+    "name": "Fromage frais aux herbes",
+    "ingredients": "fromage blanc, crème fraîche, ciboulette, persil, ail, sel, poivre"
+  },
+  {
+    "name": "Smoothie fraise-banane",
+    "ingredients": "fraises, bananes, yaourt nature, miel, lait"
+  },
+  {
+    "name": "Panna cotta",
+    "ingredients": "crème fraîche, lait, sucre, gélatine, extrait de vanille"
+  },
+  {
+    "name": "Crêpes",
+    "ingredients": "farine, œufs, lait, beurre fondu, sucre, sel"
+  },
+  {
+    "name": "Tiramisu",
+    "ingredients": "mascarpone, œufs, sucre, biscuits, café, cacao"
+  }
+]

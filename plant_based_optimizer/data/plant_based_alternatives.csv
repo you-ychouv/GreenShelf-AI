@@ -1,0 +1,113 @@
+original_ingredient,plant_based_alternative,compatibility_score,category
+lait,lait de soja,0.90,protein
+lait,lait d'avoine,0.85,protein
+lait,lait d'amande,0.80,protein
+lait,lait de coco,0.75,protein
+lait entier,lait de soja,0.90,protein
+lait demi-écrémé,lait d'avoine,0.88,protein
+lait écrémé,lait d'amande,0.85,protein
+yaourt,yaourt de soja,0.88,protein
+yaourt,yaourt de coco,0.82,protein
+yaourt,yaourt d'avoine,0.85,protein
+crème fraîche,crème de soja,0.90,fat
+crème fraîche,crème de coco,0.88,fat
+crème fraîche,crème d'avoine,0.85,fat
+beurre,margarine végétale,0.85,fat
+beurre,huile de coco,0.80,fat
+beurre,purée d'amande,0.75,fat
+fromage,fromage végétal à base de noix de cajou,0.75,protein
+fromage,levure nutritionnelle,0.60,protein
+fromage,tofu fermenté,0.70,protein
+oeuf,graines de lin moulues + eau,0.75,protein
+oeuf,aquafaba,0.80,protein
+oeuf,compote de pommes,0.70,carbohydrate
+oeuf,tofu soyeux,0.78,protein
+blanc d'oeuf,aquafaba,0.85,protein
+jaune d'oeuf,tofu soyeux,0.75,protein
+viande de boeuf,tofu,0.70,protein
+viande de boeuf,tempeh,0.75,protein
+viande de boeuf,seitan,0.80,protein
+viande de boeuf,protéines de soja texturées,0.78,protein
+poulet,tofu,0.72,protein
+poulet,tempeh,0.76,protein
+poulet,seitan,0.82,protein
+porc,tempeh,0.74,protein
+porc,seitan,0.78,protein
+saumon,tofu mariné,0.65,protein
+thon,pois chiches écrasés,0.68,protein
+thon,tofu émietté,0.70,protein
+gélatine,agar-agar,0.95,thickener
+gélatine,pectine,0.88,thickener
+gélatine,carraghénane,0.90,thickener
+gélatine,gomme de guar,0.85,thickener
+miel,sirop d'agave,0.88,sweetener
+miel,sirop d'érable,0.85,sweetener
+miel,sirop de dattes,0.82,sweetener
+miel,mélasse,0.75,sweetener
+beurre de lait,beurre de cacahuète,0.80,fat
+beurre de lait,purée d'amande,0.82,fat
+beurre de lait,tahini,0.75,fat
+lait en poudre,lait de soja en poudre,0.88,protein
+lait en poudre,lait de coco en poudre,0.82,protein
+caséine,protéines de pois,0.75,protein
+caséine,protéines de soja,0.78,protein
+whey,protéines de pois,0.80,protein
+whey,protéines de riz,0.75,protein
+lactose,sucre de coco,0.70,sweetener
+lactose,sirop d'agave,0.75,sweetener
+collagène,agar-agar,0.70,thickener
+collagène,pectine,0.68,thickener
+saindoux,huile de coco,0.85,fat
+saindoux,margarine végétale,0.82,fat
+suif,huile de palme durable,0.75,fat
+suif,huile de coco,0.78,fat
+anchois,câpres,0.65,flavor
+anchois,algues nori,0.70,flavor
+parmesan,levure nutritionnelle,0.68,flavor
+parmesan,fromage végétal,0.72,protein
+mascarpone,crème de noix de cajou,0.80,fat
+ricotta,tofu émietté,0.75,protein
+feta,tofu mariné,0.72,protein
+mozzarella,fromage végétal à base de tapioca,0.78,protein
+cheddar,fromage végétal à base de noix de cajou,0.75,protein
+gruyère,fromage végétal affiné,0.73,protein
+roquefort,fromage végétal aux herbes,0.65,protein
+camembert,fromage végétal crémeux,0.70,protein
+lait concentré,lait de coco concentré,0.82,protein
+lait condensé,lait de coco condensé sucré,0.80,sweetener
+babeurre,lait de soja + vinaigre,0.78,protein
+kéfir,kéfir de coco,0.75,protein
+crème aigre,crème de soja aigre,0.82,fat
+fromage blanc,yaourt de soja épais,0.80,protein
+petit-suisse,yaourt de coco épais,0.75,protein
+e120,extrait de betterave,0.90,colorant
+e120,jus de carotte concentré,0.85,colorant
+e120,anthocyanes (extrait de fruits rouges),0.88,colorant
+colorant e120,extrait de betterave,0.90,colorant
+cochenille,extrait de betterave,0.90,colorant
+carmin,extrait de betterave,0.90,colorant
+e441,agar-agar,0.95,thickener
+e441,pectine,0.88,thickener
+e542,phosphate de calcium végétal,0.85,additive
+e901,cire de carnauba,0.90,additive
+e901,cire de candelilla,0.88,additive
+cire d'abeille,cire de carnauba,0.90,additive
+e904,gomme arabique,0.85,additive
+e904,gomme laque végétale,0.82,additive
+shellac,gomme arabique,0.85,additive
+e910,cire de riz,0.88,additive
+e913,lanoline végétale,0.80,additive
+e920,cystéine végétale,0.85,additive
+l-cystéine,cystéine végétale,0.85,additive
+e921,cystine végétale,0.85,additive
+e322,lécithine de soja,0.95,emulsifier
+e322,lécithine de tournesol,0.93,emulsifier
+lécithine,lécithine de soja,0.95,emulsifier
+e422,glycérol végétal,0.90,additive
+glycérol,glycérol végétal,0.90,additive
+glycérine,glycérol végétal,0.90,additive
+e471,mono et diglycérides végétaux,0.88,emulsifier
+e472,esters d'acides gras végétaux,0.85,emulsifier
+e473,esters de saccharose végétaux,0.85,emulsifier
+e1105,lysozyme végétal,0.75,preservative
+lysozyme,lysozyme végétal,0.75,preservative
